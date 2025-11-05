@@ -1,0 +1,10 @@
+h1{
+    background-origin: padding-box;
+border: 0cap;
+
+}
+p{
+    background-color: aqua;
+    margin-top: auto;
+    margin-bottom: auto;
+}
